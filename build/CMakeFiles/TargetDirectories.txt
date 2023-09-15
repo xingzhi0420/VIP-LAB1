@@ -1,0 +1,3 @@
+/home/xingzhi_dai/vip/Lab1/build/CMakeFiles/hello_world.dir
+/home/xingzhi_dai/vip/Lab1/build/CMakeFiles/edit_cache.dir
+/home/xingzhi_dai/vip/Lab1/build/CMakeFiles/rebuild_cache.dir
